@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\bin\Debug\_09.Celsius_to_Fahrenheit.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\obj\Debug\09. Celsius to Fahrenheit.csprojAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\obj\Debug\09. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\obj\Debug\_09.Celsius_to_Fahrenheit.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\09. Celsius to Fahrenheit\obj\Debug\_09.Celsius_to_Fahrenheit.pdb

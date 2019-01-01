@@ -1,0 +1,6 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\obj\Debug\10. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.pdb

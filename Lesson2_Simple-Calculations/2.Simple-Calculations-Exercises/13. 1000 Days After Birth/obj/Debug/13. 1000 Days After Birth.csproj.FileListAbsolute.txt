@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\bin\Debug\13. 1000 Days After Birth.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.csprojAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\13. 1000 Days After Birth\obj\Debug\13. 1000 Days After Birth.pdb

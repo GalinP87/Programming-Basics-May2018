@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\bin\Debug\_12.Currency_Converter.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\bin\Debug\_12.Currency_Converter.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\bin\Debug\_12.Currency_Converter.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\obj\Debug\12. Currency Converter.csprojAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\obj\Debug\12. Currency Converter.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\obj\Debug\_12.Currency_Converter.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\12. Currency Converter\obj\Debug\_12.Currency_Converter.pdb

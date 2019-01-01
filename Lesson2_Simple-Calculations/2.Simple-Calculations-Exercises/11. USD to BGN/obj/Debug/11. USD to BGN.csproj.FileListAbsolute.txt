@@ -1,0 +1,6 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\bin\Debug\_11.USD_to_BGN.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\bin\Debug\_11.USD_to_BGN.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\bin\Debug\_11.USD_to_BGN.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\obj\Debug\11. USD to BGN.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\obj\Debug\_11.USD_to_BGN.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\11. USD to BGN\obj\Debug\_11.USD_to_BGN.pdb
