@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\bin\Debug\1.Hello-SoftUni.exe.config
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\bin\Debug\1.Hello-SoftUni.exe
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\bin\Debug\1.Hello-SoftUni.pdb
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\obj\Debug\01.Hello-SoftUni.csprojResolveAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\obj\Debug\01.Hello-SoftUni.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\obj\Debug\1.Hello-SoftUni.exe
+C:\Project\Programming-Basics-May2018\Lesson1_First.Steps\1. First-Steps-in-Coding-Exercises\1.Hello-SoftUni\obj\Debug\1.Hello-SoftUni.pdb
