@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\bin\Debug\_02.Inches_to_Centimeters.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\obj\Debug\02. Inches to Centimeters.csprojResolveAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\obj\Debug\02. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\obj\Debug\_02.Inches_to_Centimeters.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\02. Inches to Centimeters\obj\Debug\_02.Inches_to_Centimeters.pdb
