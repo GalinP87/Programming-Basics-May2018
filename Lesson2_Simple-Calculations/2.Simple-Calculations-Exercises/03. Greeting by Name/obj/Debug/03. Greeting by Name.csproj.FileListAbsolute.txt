@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\bin\Debug\_03.Greeting_by_Name.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\obj\Debug\03. Greeting by Name.csprojResolveAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\obj\Debug\03. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\obj\Debug\_03.Greeting_by_Name.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\03. Greeting by Name\obj\Debug\_03.Greeting_by_Name.pdb

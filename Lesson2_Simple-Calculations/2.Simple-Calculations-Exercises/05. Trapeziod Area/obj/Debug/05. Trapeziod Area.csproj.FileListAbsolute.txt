@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\bin\Debug\_05.Trapeziod_Area.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\obj\Debug\05. Trapeziod Area.csprojAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\obj\Debug\05. Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\obj\Debug\_05.Trapeziod_Area.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\05. Trapeziod Area\obj\Debug\_05.Trapeziod_Area.pdb

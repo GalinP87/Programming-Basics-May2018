@@ -1,0 +1,7 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\bin\Debug\_04.Concatenate_Data.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\obj\Debug\04. Concatenate Data.csprojAssemblyReference.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\obj\Debug\04. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\04. Concatenate Data\obj\Debug\_04.Concatenate_Data.pdb

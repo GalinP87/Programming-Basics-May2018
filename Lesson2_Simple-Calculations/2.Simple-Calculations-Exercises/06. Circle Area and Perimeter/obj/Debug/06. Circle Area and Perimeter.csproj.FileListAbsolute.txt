@@ -1,0 +1,6 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\obj\Debug\06. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.pdb

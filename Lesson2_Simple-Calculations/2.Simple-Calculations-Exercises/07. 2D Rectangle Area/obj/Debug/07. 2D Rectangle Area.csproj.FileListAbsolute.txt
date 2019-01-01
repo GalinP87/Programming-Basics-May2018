@@ -1,0 +1,6 @@
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe.config
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.pdb
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.exe
+C:\Project\Programming-Basics-May2018\Lesson2_Simple-Calculations\2. Simple-Calculations-Exercises\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.pdb
